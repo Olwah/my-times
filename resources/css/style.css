@@ -1,0 +1,27 @@
+header {
+  display: flex;
+  font-family: Verdana;
+  font-size: 14px;
+  font-weight: bold;
+}
+
+#logo {
+  display: inline-flex;
+  width: 50%;
+
+}
+
+#logo p {
+  color: aquamarine;
+}
+
+nav {
+  display: inline-flex;
+  justify-content: flex-end;
+  width: 50%;
+  margin-right: 40px;
+}
+
+nav p {
+  padding: 10px 10px;
+}
